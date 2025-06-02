@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  background-color: hsl(234, 29%, 20%);
+  font-family: "Roboto", sans-serif;
+}
+
+@theme {
+  --color-activebutton: hsl(4, 100%, 67%);
+  --color-normalbutton: hsl(234, 29%, 20%);
+}
